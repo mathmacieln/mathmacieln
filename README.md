@@ -2,6 +2,7 @@
 
 💻 Iniciando na programação  
 🚀 Estudando JavaScript, HTML e CSS e Python 
+
 📚 Atualmente focado em projetos práticos  
 
 
